@@ -1,0 +1,13 @@
+{
+  "name": "notinber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nexstorm/notinber",
+  "author": "nexstorm",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  }
+}
